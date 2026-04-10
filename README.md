@@ -9,7 +9,7 @@ A fun and interactive web application that lets you drag a div element around th
 - 🚀 Lightweight, no external dependencies
 
 ## Live Demo
-Check out the live demo here: [https://iam269.github.io/Draggable-Div/](https://iam269.github.io/Draggable-Div/)
+Check out the live demo here: [https://itsiamdev.github.io/Draggable-Div/](https://itsiamdev.github.io/Draggable-Div/)
 
 ## Technologies Used
 - HTML5
